@@ -16,8 +16,8 @@
                 },
                 {
                     "name": "",
-                    "pathName": "subpkg/goods_list/goods_list",
-                    "query": "",
+                    "pathName": "subpkg/good_detail/good_detail",
+                    "query": "goods_id=395",
                     "launchMode": "default",
                     "scene": null
                 }
